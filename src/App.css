@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  
 }
 
 .card {
@@ -33,8 +34,15 @@ ul {
 
 .car-container {
   margin: 50px;
+  
 }
 
 .car-paper {
   padding: 50px;
+  text-transform: uppercase;
+  
+}
+
+.chip {
+  color: green;
 }
